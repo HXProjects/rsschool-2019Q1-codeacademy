@@ -1,2 +1,10 @@
 # rsschool-2019Q1-codeacademy
-My JS_Study at EPAM
+Volha Zakharava
+
+HTML CSS Basics:
+
+https://www.codecademy.com/users/HXProjects/achievements
+
+https://htmlacademy.ru/profile/id1021559/achievements
+
+
